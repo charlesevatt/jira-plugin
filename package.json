@@ -57,7 +57,7 @@
       "properties": {
         "jira-plugin.additionalStatuses": {
           "type": "string",
-          "description": "Additional custom statuses, used for manage some Jira wrong behavior",
+          "description": "Additional custom statuses should be added here, in order to manage some unexpected behaviour with custom filters",
           "default": ""
         },
         "jira-plugin.baseUrl": {
